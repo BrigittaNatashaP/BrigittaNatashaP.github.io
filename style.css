@@ -1,0 +1,62 @@
+body {
+	background-image: url("background.jpg");
+	background-image: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1{
+	text-align: center;
+	background-color: purple;
+	padding: 20px;
+	color: white;
+	font-family: Calibri;
+	font-size: 300%;
+}
+
+p{
+	text-align: center;
+	color: black;
+	font-size: 16px
+}
+
+strong{
+	padding: 10px;
+	color: black;
+	text-align: center;
+	font-family: cursive;
+	font-size: 100%
+}
+
+h2{
+	padding: 15px;
+	color: black;
+	text-align: center;
+	font-family: century gothic;
+	font-size: 190%;
+}
+ul{
+	text-align: left;
+	color: black;
+	font-size: 15px
+}
+
+img{
+	border-radius: 50%;
+	width: 220px;
+	height: 220px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+button{
+	background-color: pink;
+	color: black;
+	width: 80px;
+	height: 20px;
+}
+
+title{
+	color: black
+}
